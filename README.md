@@ -31,7 +31,7 @@ var carlassaraf = {
 
 <summary>:zap: Github Stats</summary>
 
-![carlassaraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlassaraf&count_private=true)
+![carlassaraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlassaraf&count_private=truetokyonight)
 
 </details>
 
@@ -39,7 +39,7 @@ var carlassaraf = {
 
 <summary>:zap: Most Used Languages</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlassaraf&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlassaraf&layout=compact&langs_count=8&theme=tokyonight)
 
 </details>
 
