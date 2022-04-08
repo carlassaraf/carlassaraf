@@ -39,7 +39,7 @@ var carlassaraf = {
 
 <summary>:zap: Most Used Languages</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlassaraf)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlassaraf&layout=compact&langs_count=8)
 
 </details>
 
