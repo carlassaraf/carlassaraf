@@ -31,7 +31,7 @@ var carlassaraf = {
 
 <summary>:zap: Github Stats</summary>
 
-![carlassaraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlassaraf&count_private=truetokyonight)
+![carlassaraf's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlassaraf&count_private=true&theme=tokyonight)
 
 </details>
 
