@@ -9,9 +9,9 @@
 
 ```javascript
 var carlassaraf = {
-    age : 24,
+    age : 26,
     hobbies : ["programing", "reading", "videogames"],
-    languages : ["c/c++", "python", "javascript", "html", "css", "java"],
+    languages : ["c", "python", "javascript"],
     goals : {
         inmediate : "Try to have 6 hours of sleep",
         long_term : "Work as an independent software developer",
