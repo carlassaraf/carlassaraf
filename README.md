@@ -1,8 +1,8 @@
 ## I'm a Student, Developer and Teacher 
 
 - :books: I'm an Electrical Engeneering student
-- :school: I teach programming at a High School
-- :bulb: Allways looking to innovate and develop new education tools
+- :school: I teach embedded systems at a High School
+- :bulb: Always looking to innovate and develop new education tools
 - :zap: I like to read fantasy books when I have time to spare.
 
 ### More about me 
@@ -13,7 +13,7 @@ var carlassaraf = {
     hobbies : ["programing", "reading", "videogames"],
     languages : ["c", "python", "javascript"],
     goals : {
-        inmediate : "Try to have 6 hours of sleep",
+        inmediate : "Try to get 6 hours of sleep",
         long_term : "Work as an independent software developer",
     },
 }
