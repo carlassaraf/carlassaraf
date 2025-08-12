@@ -65,4 +65,10 @@
         <a><img src="https://img.shields.io/github/followers/carlassaraf?label=Follow&style=social"></a>
     </div>
 
+<h2 align="center">🧑🏼‍💻 I'm currently working on 🧑🏼‍💻</h2>
+
+* [Educative cochlear implant](https://github.com/utn-fra-lse/implante-coclear)
+* [DSP tutorial for embedded systems](https://github.com/utn-fra-lse/embedded-dsp-tutorial)
+* [Customizable PID control for DC motor position with FreeRTOS and GUI](https://github.com/carlassaraf/dc_motor_pid_control)
+
 <h2 align="center">Check out my repos!</h2>
